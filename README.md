@@ -1,5 +1,5 @@
 # chef_apache2
-Basic Project to illustrate the configuration setup of apache2
+This project illustrates a Chef package setup on a Ubuntu system and a basic chef cookbook for the configuration setup of apache2 server
 
 
 This repo includes the following steps: <br>
